@@ -1,11 +1,11 @@
 {
     "language": "en",
     "keyActive": "",
-    "DeveloperMode": false,
+    "DeveloperMode": true,
     "autoCreateDB": true,
     "notiGroup": true,
     "NOTIFICATION": true,
-    "allowInbox": false,
+    "allowInbox": true,
     "autoClean": true,
     "commandDisabled": [
         "sim.js"
